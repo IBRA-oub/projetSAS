@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1695729368 source:c:\users\youco\desktop\langagec\projetsas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+
